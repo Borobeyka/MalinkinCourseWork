@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinLibrary\bin\Debug\MalinkinLibrary.dll
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinLibrary\bin\Debug\MalinkinLibrary.pdb
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinLibrary\obj\Debug\MalinkinLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinLibrary\obj\Debug\MalinkinLibrary.dll
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinLibrary\obj\Debug\MalinkinLibrary.pdb
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinLibrary\obj\Debug\MalinkinLibrary.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalinkinCourseWork", "MalinkinCourseWork\MalinkinCourseWork.csproj", "{7CC47C09-9CD0-434D-86D3-DB6A21467639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalinkinLibrary", "MalinkinLibrary\MalinkinLibrary.csproj", "{274DFF2C-0197-4366-8365-5DE358ABFC08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC47C09-9CD0-434D-86D3-DB6A21467639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC47C09-9CD0-434D-86D3-DB6A21467639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC47C09-9CD0-434D-86D3-DB6A21467639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC47C09-9CD0-434D-86D3-DB6A21467639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274DFF2C-0197-4366-8365-5DE358ABFC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274DFF2C-0197-4366-8365-5DE358ABFC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274DFF2C-0197-4366-8365-5DE358ABFC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274DFF2C-0197-4366-8365-5DE358ABFC08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7786CEE9-FC1D-4FDD-910E-41D82EF06B12}
+	EndGlobalSection
+EndGlobal

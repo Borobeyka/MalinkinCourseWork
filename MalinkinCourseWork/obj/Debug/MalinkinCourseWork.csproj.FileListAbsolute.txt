@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\bin\Debug\MalinkinCourseWork.exe.config
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\bin\Debug\MalinkinCourseWork.exe
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\bin\Debug\MalinkinCourseWork.pdb
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\bin\Debug\MalinkinLibrary.dll
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\bin\Debug\MalinkinLibrary.pdb
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\obj\Debug\MalinkinCourseWork.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\obj\Debug\MalinkinCourseWork.Properties.Resources.resources
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\obj\Debug\MalinkinCourseWork.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\obj\Debug\MalinkinCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\obj\Debug\MalinkinCourseWork.csproj.CopyComplete
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\obj\Debug\MalinkinCourseWork.exe
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\obj\Debug\MalinkinCourseWork.pdb
+C:\Users\PC\source\repos\MalinkinCourseWork\MalinkinCourseWork\obj\Debug\MalinkinCourseWork.Form1.resources
